@@ -1,3 +1,3 @@
 # DIWithNInject
 Dependency Injection demonstration with NInject Container
-Test
+Test 2
